@@ -19,7 +19,7 @@ Threshold-based pollution alert system
 
 Low-power and low-cost architecture
 
-<h5>echnologies Used:</h5>h5
+<h5>Technologies Used:</h5>h5
 
 Hardware: NodeMCU ESP8266, MQ135, DHT11, Buzzer, LED
 
